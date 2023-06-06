@@ -38,7 +38,6 @@ wheel=0.37.1=pyhd3eb1b0_0
 xz=5.2.5=h7f8727e_1
 zlib=1.2.12=h7f8727e_2
 zstd=1.4.9=haebb681_0
-
 backcall==0.2.0
 charset-normalizer==2.1.0
 clip==1.0
