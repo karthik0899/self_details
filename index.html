@@ -1,78 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Top 4 Git Repositories</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f1f1f1;
-    }
-
-    h1 {
-      text-align: center;
-      padding: 20px;
-      background-color: #333;
-      color: #fff;
-      margin: 0;
-    }
-
-    .repo-container {
-      max-width: 800px;
-      margin: 20px auto;
-      background-color: #fff;
-      padding: 20px;
-      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    }
-
-    .repo {
-      margin-bottom: 20px;
-    }
-
-    .repo h2 {
-      margin: 0;
-      font-size: 18px;
-    }
-
-    .repo p {
-      margin-top: 5px;
-      color: #666;
-    }
-
-    .repo a {
-      color: #333;
-      text-decoration: none;
-    }
-
-    .repo a:hover {
-      text-decoration: underline;
-    }
-  </style>
+    <title>My Top GitHub Repositories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 30px;
+        }
+        .repo-card {
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+        .repo-card:hover {
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+        .repo-card h3 {
+            margin-top: 0;
+        }
+        .repo-card a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .repo-card p {
+            color: #586069;
+        }
+    </style>
 </head>
 <body>
-  <h1>My Top 4 Git Repositories</h1>
-  <div class="repo-container">
-    <div class="repo">
-      <h2>Repository 1</h2>
-      <p>This is my first repository description.</p>
-      <a href="https://github.com/your-username/repo1">Visit Repository</a>
+    <h1>My Top GitHub Repositories</h1>
+    <div class="repo-card">
+        <h3><a href="REPO_URL_1">REPO_NAME_1</a></h3>
+        <p>REPO_DESCRIPTION_1</p>
     </div>
-    <div class="repo">
-      <h2>Repository 2</h2>
-      <p>This is my second repository description.</p>
-      <a href="https://github.com/your-username/repo2">Visit Repository</a>
+    <div class="repo-card">
+        <h3><a href="REPO_URL_2">REPO_NAME_2</a></h3>
+        <p>REPO_DESCRIPTION_2</p>
     </div>
-    <div class="repo">
-      <h2>Repository 3</h2>
-      <p>This is my third repository description.</p>
-      <a href="https://github.com/your-username/repo3">Visit Repository</a>
+    <div class="repo-card">
+        <h3><a href="REPO_URL_3">REPO_NAME_3</a></h3>
+        <p>REPO_DESCRIPTION_3</p>
     </div>
-    <div class="repo">
-      <h2>Repository 4</h2>
-      <p>This is my fourth repository description.</p>
-      <a href="https://github.com/your-username/repo4">Visit Repository</a>
+    <div class="repo-card">
+        <h3><a href="REPO_URL_4">REPO_NAME_4</a></h3>
+        <p>REPO_DESCRIPTION_4</p>
     </div>
-  </div>
 </body>
 </html>
