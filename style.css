@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: rgb(18,18,18,255); /* Changed background color to black */
+  background-image: url('pexels-francesco-ungaro-998641.jpg'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
 }
 .navbar {
   display: flex;
