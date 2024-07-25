@@ -1,0 +1,42 @@
+{
+    "1": {
+    "a": "List and explain various forms of learning.",
+    "b": "Explain any four Linear Algebra Concepts in Machine Learning."
+    },
+    "2": {
+    "a": "Explain how data representation is critical in machine learning.",
+    "b": "Differentiate Machine Learning from Data Mining."
+    },
+    "3": {
+    "a": "Discuss various mechanisms for reducing bias and variance in learning.",
+    "b": "Explain various Metrics for assessing the performance of regression."
+    },
+    "4": {
+    "a": "Summarize the features of Computational Learning Theory.",
+    "b": "Relate Cross-validation with machine learning performance."
+    },
+    "5": {
+    "a": "How is Bayesian Reasoning used for inference calculation?",
+    "b": "Summarize the importance of the Minimum Description Length Principle."
+    },
+    "6": {
+    "a": "Explain Linear Regression with Least Square Error Criterion.",
+    "b": "Discuss the pros and cons of the K-Nearest Neighbor Classifier with examples."
+    },
+    "7": {
+    "a": "Discuss the significance of the Perceptron Algorithm.",
+    "b": "Explain Widrow-Hoff Learning Rule with an example."
+    },
+    "8": {
+    "a": "How to regression by Support vector Machines.",
+    "b": "Discuss the need for a large Margin Classifier for linearly separable data."
+    },
+    "9": {
+    "a": "Differentiate the features of C4.5 and CART.",
+    "b": "Trace the steps in the error backpropagation algorithm with an example."
+    },
+    "10": {
+    "a": "Summarize the strengths and weakness of the decision tree approach",
+    "b": "Discuss various measures of impurity for evaluating splits in ID3."
+    }
+    }
