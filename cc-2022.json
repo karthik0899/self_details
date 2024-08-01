@@ -1,0 +1,42 @@
+{
+    "1": {
+    "a": "Differentiate between networks Centre computing and contend.",
+    "b": "What are the rules to be followed for message delivery in distributed systems? How to maintain synchronization with clocks?"
+    },
+    "2": {
+    "a": "Describe the architecture of parallel and distributed systems.",
+    "b": "What is concurring and model concurrency with petrinets? Discuss."
+    },
+    "3": {
+    "a": "Explain different Open Source software platforms. How to address the issue of software licensing? Discuss the process.",
+    "b": "Relate Map Reduce program model with cloud computing. Describe the HPC on clouds."
+    },
+    "4": {
+    "a": "Describe the challenges for cloud and opportunities for new applications.",
+    "b": "Compare and contrast various styles and work force of cloud infrastructure."
+    },
+    "5": {
+    "a": "Write about the hardware support in cloud computing with different case studies XEN and V BLADES.",
+    "b": "How to achieve scheduling with deadlines? Explain the scheduling map reduce applications."
+    },
+    "6": {
+    "a": "Describe architecture for two level resource allocations. What is the importance of resource bundling in it?",
+    "b": "Discuss the role of virtualization and virtual machines in cloud computing. Explain its performance issues."
+    },
+    "7": {
+    "a": "Explain various storage system models in cloud. Illustrate with Google File system.",
+    "b": "Differentiate between cloud systems and distributed systems. Discuss with respect to security and privacy."
+    },
+    "8": {
+    "a": "Explain virtual machine security and various security risks.",
+    "b": "Summarize the features of distributed file system. Explain with Amazon simple storage Services."
+    },
+    "9": {
+    "a": "Write about steps of installing Hadoop on eclipse and security rules.",
+    "b": "Explain Google web took kit with App Engine. How it provides the cloud service platform."
+    },
+    "10": {
+    "a": "Explain the procedure of installing simple notification services on UBUNTU 10.04.",
+    "b": "Explain how to simulate distributed trust algorithm for cloud based services with illustration."
+    }
+    }
